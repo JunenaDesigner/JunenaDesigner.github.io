@@ -4,13 +4,50 @@
   <title><![CDATA[Junena的Blog]]></title>
   <link href="https://junenadesigner.github.io/atom.xml" rel="self"/>
   <link href="https://junenadesigner.github.io/"/>
-  <updated>2019-10-10T10:18:16+08:00</updated>
+  <updated>2019-10-10T10:18:39+08:00</updated>
   <id>https://junenadesigner.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[UI 作品集（一）]]></title>
+    <link href="https://junenadesigner.github.io/15737964234940.html"/>
+    <updated>2019-11-15T13:40:23+08:00</updated>
+    <id>https://junenadesigner.github.io/15737964234940.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/15737964234940/%E7%AE%80%E5%8E%861.png" alt="简历1"/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[AE  基础知识整理]]></title>
+    <link href="https://junenadesigner.github.io/15726082072306.html"/>
+    <updated>2019-11-01T19:36:47+08:00</updated>
+    <id>https://junenadesigner.github.io/15726082072306.html</id>
+    <content type="html"><![CDATA[
+<p>最近对于AE这款软件，进行了重新学习，又有了新的感悟。记录AE学习过程中，比较重要知识点。</p>
+
+<p>1.关键帧选中后按f9,可以让运动执行融环曲线，让动画效果更佳融合。</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[图标设计的理论知识]]></title>
+    <link href="https://junenadesigner.github.io/15708474512181.html"/>
+    <updated>2019-10-12T10:30:51+08:00</updated>
+    <id>https://junenadesigner.github.io/15708474512181.html</id>
+    <content type="html"><![CDATA[
+<h3 id="toc_0">矛盾空间图标——彭罗斯三角形</h3>
+
+<p><img src="media/15708474512181/15717478967909.jpg" alt=""/></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[国外大师的设计锦囊]]></title>
@@ -36,6 +73,11 @@
 <li>保持元素的连续性和整体感
 <img src="media/15706289849539/15706320562661.jpg" alt=""/></li>
 </ol>
+
+<h3 id="toc_1">关于文字间距的诀窍</h3>
+
+<p>小字体，大间距（留白多）<br/>
+大字体，小间距（留白少）</p>
 
 ]]></content>
   </entry>
