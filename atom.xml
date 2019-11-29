@@ -4,13 +4,59 @@
   <title><![CDATA[Junena的Blog]]></title>
   <link href="https://junenadesigner.github.io/atom.xml" rel="self"/>
   <link href="https://junenadesigner.github.io/"/>
-  <updated>2019-11-15T18:07:52+08:00</updated>
+  <updated>2019-11-15T18:07:56+08:00</updated>
   <id>https://junenadesigner.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[关于排版的那些细节处理]]></title>
+    <link href="https://junenadesigner.github.io/15738660658488.html"/>
+    <updated>2019-11-16T09:01:05+08:00</updated>
+    <id>https://junenadesigner.github.io/15738660658488.html</id>
+    <content type="html"><![CDATA[
+<h3 id="toc_0">版面比较空，如何处理画面</h3>
+
+<p>一、 对文字的处理</p>
+
+<ol>
+<li>放大文字</li>
+</ol>
+
+<p><img src="media/15738660658488/15738662225325.jpg" alt=""/></p>
+
+<p>左（一）是对文字标题进行了放大，整体看上去效果比右（一）好很多</p>
+
+<span id="more"></span><!-- more -->
+
+<ol>
+<li>文字散开</li>
+</ol>
+
+<p><img src="media/15738660658488/15738663270850.jpg" alt=""/><br/>
+<img src="media/15738660658488/15738663646381.jpg" alt=""/></p>
+
+<ol>
+<li><p>压四角<br/>
+<img src="media/15738660658488/15738664828745.jpg" alt=""/></p></li>
+<li><p>对文字加框</p></li>
+</ol>
+
+<p><img src="media/15738660658488/15738666375959.jpg" alt=""/></p>
+
+<ol>
+<li>添加英文文案</li>
+</ol>
+
+<p><img src="media/15738660658488/15738667111393.jpg" alt=""/></p>
+
+<p>二、</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[UI 作品集（一）]]></title>
@@ -215,7 +261,7 @@
     <content type="html"><![CDATA[
 <p>记录近期插画临摹练习</p>
 
-<p><img src="media/15676703904515/2019.11.png" alt="2019.11"/>学习临摹了上面的插画形式，尝试自按照淘宝模特进行二次创作。</p>
+<p><img src="media/15676703904515/2019.11.png" alt="2019.11"/>学习临摹了上面的插画形式，尝试自己按照淘宝模特进行二次创作。</p>
 
 <p><img src="media/15676703904515/2019.8.27.png" alt="2019.8.27"/><img src="media/15676703904515/2019.11.png" alt="2019.11"/></p>
 
