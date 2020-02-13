@@ -4,13 +4,78 @@
   <title><![CDATA[Junena的Blog]]></title>
   <link href="https://junenadesigner.github.io/atom.xml" rel="self"/>
   <link href="https://junenadesigner.github.io/"/>
-  <updated>2019-12-16T17:45:50+08:00</updated>
+  <updated>2020-02-13T12:54:02+08:00</updated>
   <id>https://junenadesigner.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[字体设计样式及步骤]]></title>
+    <link href="https://junenadesigner.github.io/15814971508131.html"/>
+    <updated>2020-02-12T16:45:50+08:00</updated>
+    <id>https://junenadesigner.github.io/15814971508131.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/15814971508131/WeChat0015550e497f9705e46731926ee4d57b.png" alt="WeChat0015550e497f9705e46731926ee4d57b"/></p>
+
+<h3 id="toc_0">简单的折纸字体设计</h3>
+
+<ol>
+<li>创建”字体“，右键”创建轮廓“</li>
+<li>选择色卡</li>
+<li>快捷键&quot;I&quot;，吸取色卡颜色。</li>
+<li>使用”倾斜工具“<img src="media/15814971508131/15814973625230.jpg" alt=""/>
+按住快捷键”ait&quot;，点击文字顶部的一个点，出现倾斜工具弹窗。</li>
+<li>选择倾斜角度-2.5°——-3°，水平轴，点击“复制” 。</li>
+<li>吸取色卡颜色。</li>
+<li>使用快捷键“command+D“。</li>
+<li>吸取色卡颜色。</li>
+<li>7——8步骤重复10次。</li>
+<li>对每层文字图层进行上下变形。制作出层叠纸张的效果</li>
+<li>选择”变形工具“<img src="media/15814971508131/15814976691494.jpg" alt=""/></li>
+</ol>
+
+<p>对最上层的字体进行变形，制作折纸效果<br/>
+12. 选中所有文字图层，选择”自由变换工具“，鼠标放在一个角点上，单击一下，不要松手，按住”ctrl&quot;键，进行拖拽。整体的透视关系是左大右小<br/>
+13. 选择所有的文字图层（不选择最后一层文字图层），选择“风格化——投影”。<img src="media/15814971508131/15814979707106.jpg" alt=""/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[C4D基础知识学习]]></title>
+    <link href="https://junenadesigner.github.io/15809086920448.html"/>
+    <updated>2020-02-05T21:18:12+08:00</updated>
+    <id>https://junenadesigner.github.io/15809086920448.html</id>
+    <content type="html"><![CDATA[
+<h3 id="toc_0">操作</h3>
+
+<ol>
+<li>鼠标按住滚轮键可以选择视图</li>
+<li>AIT+鼠标左键可以鼠标拖动旋转视图</li>
+<li>要进行立方体点、线、面编辑前，请先将立方体进行“转化为可编辑对象”操作 </li>
+</ol>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[用户体验增长设计模型：从增长角度看用户体验设计]]></title>
+    <link href="https://junenadesigner.github.io/15780287341020.html"/>
+    <updated>2020-01-03T13:18:54+08:00</updated>
+    <id>https://junenadesigner.github.io/15780287341020.html</id>
+    <content type="html"><![CDATA[
+<h3 id="toc_0">一、用户体验设计要素</h3>
+
+<ol>
+<li>产品现象级
+了解产品现象需要明确两个信息:</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[每日素材采集感悟]]></title>
@@ -164,17 +229,6 @@
 <p><img src="media/15738660658488/15738676191689.jpg" alt=""/></p>
 
 <p><img src="media/15738660658488/15738676396545.jpg" alt=""/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[UI 作品集（一）]]></title>
-    <link href="https://junenadesigner.github.io/15737964234940.html"/>
-    <updated>2019-11-15T13:40:23+08:00</updated>
-    <id>https://junenadesigner.github.io/15737964234940.html</id>
-    <content type="html"><![CDATA[
-<p><img src="media/15737964234940/%E7%AE%80%E5%8E%861.png" alt="简历1"/></p>
 
 ]]></content>
   </entry>
@@ -345,6 +399,14 @@
 
 <p>1.页面中要尽可能少的使用颜色，三种是合理的。<br/>
 2.饱和度低的颜色视觉效果更柔和，也更百搭。</p>
+
+<h3 id="toc_13">孟菲斯配色</h3>
+
+<p><img src="media/15706247841964/24CB921E-BE2A-4B03-BDB5-84E8C960D1CB.png" alt="24CB921E-BE2A-4B03-BDB5-84E8C960D1CB"/></p>
+
+<h3 id="toc_14">马卡龙配色</h3>
+
+<p><img src="media/15706247841964/F26E301B-B849-45C1-AEC1-F590E5509699.png" alt="F26E301B-B849-45C1-AEC1-F590E5509699"/></p>
 
 ]]></content>
   </entry>
