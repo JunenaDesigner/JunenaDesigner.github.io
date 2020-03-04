@@ -4,13 +4,47 @@
   <title><![CDATA[Junena的Blog]]></title>
   <link href="https://junenadesigner.github.io/atom.xml" rel="self"/>
   <link href="https://junenadesigner.github.io/"/>
-  <updated>2020-02-23T17:44:10+08:00</updated>
+  <updated>2020-03-04T15:53:53+08:00</updated>
   <id>https://junenadesigner.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[AE  基础知识整理及相关练习（二）]]></title>
+    <link href="https://junenadesigner.github.io/15832025111139.html"/>
+    <updated>2020-03-03T10:28:31+08:00</updated>
+    <id>https://junenadesigner.github.io/15832025111139.html</id>
+    <content type="html"><![CDATA[
+<p>继续虎课网MG动画打卡，学习总结分整理。<br/>
+1. 人物骑车动画<br/>
+<img src="media/15832025111139/%E4%BA%BA%E7%89%A9%E5%8A%A8%E7%94%BB.gif" alt="人物动画"/></p>
+
+<p>实现过程需要进行AI分层，在AE中对应的图层的中心点进行移动后进行子父集链接。然后使用“duik&quot;插件进行人物骨骼绑定。</p>
+
+<span id="more"></span><!-- more -->
+
+<ol>
+<li>人物拳击无关节动画
+<img src="media/15832025111139/%E6%8B%B3%E5%87%BB%E5%8A%A8%E7%94%BB.gif" alt="拳击动画"/></li>
+</ol>
+
+<p>实现过程需要进行AI分层，在AE中对没个需要做动效的图层使用”图钉“工具，建立可操控点，使用”puppertools3“插件，建立操控点，进行子父集链接，进行动效制作。</p>
+
+<p>3.人物面部骨骼绑定动效<br/>
+<img src="media/15832025111139/GIF.gif" alt="GIF"/></p>
+
+<ol>
+<li>AI进行图层分层。</li>
+<li>进行子父集链接。
+3.使用插件”be hesdrig&quot;插件。
+4.使用插件“duik”</li>
+</ol>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[字体设计样式及步骤]]></title>
@@ -61,22 +95,6 @@
 <li>鼠标按住滚轮键可以选择视图</li>
 <li>AIT+鼠标左键可以鼠标拖动旋转视图</li>
 <li>要进行立方体点、线、面编辑前，请先将立方体进行“转化为可编辑对象”操作 </li>
-</ol>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[用户体验增长设计模型：从增长角度看用户体验设计]]></title>
-    <link href="https://junenadesigner.github.io/15780287341020.html"/>
-    <updated>2020-01-03T13:18:54+08:00</updated>
-    <id>https://junenadesigner.github.io/15780287341020.html</id>
-    <content type="html"><![CDATA[
-<h3 id="toc_0">一、用户体验设计要素</h3>
-
-<ol>
-<li>产品现象级
-了解产品现象需要明确两个信息:</li>
 </ol>
 
 ]]></content>
@@ -237,7 +255,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[AE  基础知识整理及相关练习]]></title>
+    <title type="html"><![CDATA[AE  基础知识整理及相关练习（一）]]></title>
     <link href="https://junenadesigner.github.io/15726082072306.html"/>
     <updated>2019-11-01T19:36:47+08:00</updated>
     <id>https://junenadesigner.github.io/15726082072306.html</id>
