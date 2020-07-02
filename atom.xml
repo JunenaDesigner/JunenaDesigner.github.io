@@ -4,13 +4,51 @@
   <title><![CDATA[Junena的Blog]]></title>
   <link href="https://junenadesigner.github.io/atom.xml" rel="self"/>
   <link href="https://junenadesigner.github.io/"/>
-  <updated>2020-03-20T16:26:12+08:00</updated>
+  <updated>2020-04-07T11:19:54+08:00</updated>
   <id>https://junenadesigner.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[界面临摹]]></title>
+    <link href="https://junenadesigner.github.io/15935968120041.html"/>
+    <updated>2020-07-01T17:46:52+08:00</updated>
+    <id>https://junenadesigner.github.io/15935968120041.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/15935968120041/%E6%89%93%E5%8D%A1.png" alt="打卡"/></p>
+
+<p>1.书籍类APP临摹</p>
+
+<p><img src="media/15935968120041/%E4%B8%B4%E6%91%B9.png" alt="临摹"/></p>
+
+<p>2.植物APP临摹</p>
+
+<p><img src="media/15935968120041/%E4%B8%B4%E6%91%B9.png" alt="临摹"/></p>
+
+<p>3.健身类APP临摹</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[个人中心设计和总结]]></title>
+    <link href="https://junenadesigner.github.io/15909896891694.html"/>
+    <updated>2020-06-01T13:34:49+08:00</updated>
+    <id>https://junenadesigner.github.io/15909896891694.html</id>
+    <content type="html"><![CDATA[
+<p>个人中心是用户基础信息和操作功能入口几何页面，有列表式、棋盘式、棋盘式+列表<br/>
+<img src="media/15909896891694/15909897749389.jpg" alt=""/><br/>
+<img src="media/15909896891694/15909898156488.jpg" alt=""/><br/>
+<img src="media/15909896891694/15909898247943.jpg" alt=""/><br/>
+<img src="media/15909896891694/15909898325282.jpg" alt=""/><br/>
+<img src="media/15909896891694/15909898407541.jpg" alt=""/><br/>
+<img src="media/15909896891694/15909898489079.jpg" alt=""/></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[UI基础知识加强学习要点]]></title>
