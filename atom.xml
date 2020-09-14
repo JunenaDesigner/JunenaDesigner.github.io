@@ -4,13 +4,68 @@
   <title><![CDATA[Junena的Blog]]></title>
   <link href="https://junenadesigner.github.io/atom.xml" rel="self"/>
   <link href="https://junenadesigner.github.io/"/>
-  <updated>2020-07-02T13:47:28+08:00</updated>
+  <updated>2020-07-02T13:55:00+08:00</updated>
   <id>https://junenadesigner.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[视觉学习]]></title>
+    <link href="https://junenadesigner.github.io/15946445784346.html"/>
+    <updated>2020-07-13T20:49:38+08:00</updated>
+    <id>https://junenadesigner.github.io/15946445784346.html</id>
+    <content type="html"><![CDATA[
+<p>ctrl+alt+方向键，可以增加文字/形状立体感<br/>
+模糊画板，旋转模糊 投影会更加自然<br/>
+去色  ctrl+shift+U</p>
+
+<h3 id="toc_0">字体选择技巧</h3>
+
+<ul>
+<li><p>宋体字形使用场景：杂志（时尚气质）、美妆类（女性气质）、音乐类（文艺气质，参考网易云音乐banner)、美食类 、传统文化</p></li>
+<li><p>黑体字形使用场景：百搭属性  特点（细体字：柔美、简洁）（中粗：百搭、稳定）（粗体：强壮、厚重、大促）</p></li>
+</ul>
+
+<span id="more"></span><!-- more -->
+
+<p>宋体字与黑体字的对比：<br/>
+<img src="media/15946445784346/B10D6CD3C7AE76B7DC1B79E6ED2145C3.jpg" alt="B10D6CD3C7AE76B7DC1B79E6ED2145"/><br/>
+<img src="media/15946445784346/FFAECA1F9A5ACA2194CFB4E60B208187.jpg" alt="FFAECA1F9A5ACA2194CFB4E60B208187"/><br/>
+<img src="media/15946445784346/6146168331283B479E3292089C614AB7.png" alt="6146168331283B479E3292089C614AB7"/></p>
+
+<p>改字规律：上紧下松、横细竖粗<br/>
+ 字体重心一般都稍微往上一点</p>
+
+<p><img src="media/15946445784346/F2318A49CD39AA70533C2A7FAB320EFA.png" alt="F2318A49CD39AA70533C2A7FAB320EFA"/></p>
+
+<h3 id="toc_1">C4D学习</h3>
+
+<p>快捷键  C  让立方体转化为可编辑图形</p>
+
+<p>选择点/面/线进行 UL操作，可以进行点/面/线循环选中</p>
+
+<p>圆柱/立方体可以在原属性上增加圆角，这样更有细节感，圆角反光效果可以使物体更具有立体感</p>
+
+<p>样条线进行’扫描‘ ，将样条线放置于扫描的下面，即可制作出一个物体</p>
+
+<p>双击可以新建【材质球】</p>
+
+<p>鼠标中键切换四视图</p>
+
+<p>内部挤压：将图形面向内部缩小 （此命令是同一平面的）</p>
+
+<p>挤压：可以将面挤压出深度/长度（此命令是三维的）<br/>
+面进行挤压的时候选择【创建封面】 可以挤压出封闭的立方体</p>
+
+<p>编组快捷键：ait+g</p>
+
+<p>分裂操作后在不破坏原有层的基础上增加的层在原有层的下面的新层</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[界面临摹]]></title>
@@ -337,6 +392,11 @@
 <p><img src="media/15738660658488/15738676191689.jpg" alt=""/></p>
 
 <p><img src="media/15738660658488/15738676396545.jpg" alt=""/></p>
+
+<p><img src="media/15738660658488/15946392658224.jpg" alt=""/><br/>
+<img src="media/15738660658488/15946394538037.jpg" alt=""/><br/>
+<img src="media/15738660658488/15946399661351.jpg" alt=""/><br/>
+<img src="media/15738660658488/15946400622820.jpg" alt=""/></p>
 
 ]]></content>
   </entry>
@@ -748,39 +808,6 @@
 </ul>
 
 <p>这一版比之前看上去更加协调，两周后重新更改一稿后，发现自己之前在作图中很多地方缺少缜密的思考，此次重新优化，弥补了之前的设计缺陷。还需要增强图标的正确运用方面知识。</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[如何更自然的做水纹波动]]></title>
-    <link href="https://junenadesigner.github.io/15581458010418.html"/>
-    <updated>2019-05-18T10:16:41+08:00</updated>
-    <id>https://junenadesigner.github.io/15581458010418.html</id>
-    <content type="html"><![CDATA[
-<h3 id="toc_0">波浪小动效一</h3>
-
-<ul>
-<li>制作要点
-
-<ul>
-<li> 矩形路径转化为贝塞尔曲线路径</li>
-<li> 制作波浪图形，复制 两者相互交替</li>
-<li> 设置关键帧</li>
-<li> 制作圆。进行颜色渐变关键帧移动</li>
-<li> 波浪进行预合成，放置于圆上方图层</li>
-<li> 圆的图层进行轨道遮罩 —Alpha遮罩</li>
-<li> 数字增加文本编码效果</li>
-</ul></li>
-<li>设计要点
-
-<ul>
-<li>未使用AE的无线电波效果，波浪的变化加载不自然</li>
-<li>可通过简单的变化实现进度条加载动画。</li>
-</ul></li>
-</ul>
-
-<p><a href="media/15581458010418/%E8%BF%9B%E5%BA%A6%E6%9D%A1%E5%8A%A8%E6%95%88.mov">进度条动效</a></p>
 
 ]]></content>
   </entry>
