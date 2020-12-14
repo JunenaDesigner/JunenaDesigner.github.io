@@ -4,13 +4,98 @@
   <title><![CDATA[Junena的Blog]]></title>
   <link href="https://junenadesigner.github.io/atom.xml" rel="self"/>
   <link href="https://junenadesigner.github.io/"/>
-  <updated>2020-07-02T13:55:00+08:00</updated>
+  <updated>2020-12-14T17:36:02+08:00</updated>
   <id>https://junenadesigner.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[UI设计作品集]]></title>
+    <link href="https://junenadesigner.github.io/16079379003793.html"/>
+    <updated>2020-12-14T17:25:00+08:00</updated>
+    <id>https://junenadesigner.github.io/16079379003793.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/16079379003793/1%E5%A4%87%E4%BB%BD%204.png" alt="1备份 4"/><br/>
+<img src="media/16079379003793/2.png" alt="2"/><br/>
+<img src="media/16079379003793/3%E5%A4%87%E4%BB%BD.png" alt="3备份"/></p>
+
+<span id="more"></span><!-- more -->
+
+<p><img src="media/16079379003793/4.png" alt="4"/></p>
+
+<p><img src="media/16079379003793/5.png" alt="5"/><br/>
+<img src="media/16079379003793/6.png" alt="6"/><br/>
+<img src="media/16079379003793/7.png" alt="7"/><br/>
+<img src="media/16079379003793/8.png" alt="8"/><br/>
+<img src="media/16079379003793/9.png" alt="9"/><br/>
+<img src="media/16079379003793/10.png" alt="10"/><br/>
+<img src="media/16079379003793/11.png" alt="11"/><br/>
+<img src="media/16079379003793/12.png" alt="12"/><br/>
+<img src="media/16079379003793/13.png" alt="13"/><br/>
+<img src="media/16079379003793/14.png" alt="14"/><br/>
+<img src="media/16079379003793/15.png" alt="15"/><br/>
+<img src="media/16079379003793/16.png" alt="16"/><br/>
+<img src="media/16079379003793/17.png" alt="17"/><br/>
+<img src="media/16079379003793/18.png" alt="18"/><br/>
+<img src="media/16079379003793/19.png" alt="19"/><br/>
+<img src="media/16079379003793/20.png" alt="20"/><br/>
+<img src="media/16079379003793/21.png" alt="21"/><br/>
+<img src="media/16079379003793/22.png" alt="22"/><br/>
+<img src="media/16079379003793/23.png" alt="23"/><br/>
+<img src="media/16079379003793/24.png" alt="24"/><br/>
+<img src="media/16079379003793/25.png" alt="25"/><br/>
+<img src="media/16079379003793/26.png" alt="26"/><br/>
+<img src="media/16079379003793/27.png" alt="27"/><br/>
+<img src="media/16079379003793/28.png" alt="28"/><br/>
+<img src="media/16079379003793/29@1x.png" alt="29@1x"/><br/>
+<img src="media/16079379003793/30.png" alt="30"/><br/>
+<img src="media/16079379003793/31.png" alt="31"/><br/>
+<img src="media/16079379003793/32@1x.png" alt="32@1x"/><br/>
+<img src="media/16079379003793/33@1x.png" alt="33@1x"/><br/>
+<img src="media/16079379003793/34.png" alt="34"/><br/>
+<img src="media/16079379003793/35.png" alt="35"/><br/>
+<img src="media/16079379003793/36.png" alt="36"/><br/>
+<img src="media/16079379003793/37.png" alt="37"/><img src="media/16079379003793/38.png" alt="38"/></p>
+
+<p><img src="media/16079379003793/39.png" alt="39"/></p>
+
+<p><img src="media/16079379003793/40.png" alt="40"/><br/>
+<img src="media/16079379003793/40.png" alt="40"/></p>
+
+<p><img src="media/16079379003793/41.png" alt="41"/><br/>
+<img src="media/16079379003793/42.png" alt="42"/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[设计细节思考]]></title>
+    <link href="https://junenadesigner.github.io/16031761679848.html"/>
+    <updated>2020-10-20T14:42:47+08:00</updated>
+    <id>https://junenadesigner.github.io/16031761679848.html</id>
+    <content type="html"><![CDATA[
+<h3 id="toc_0">单色按钮与渐变按钮的区别</h3>
+
+<p><img src="media/16031761679848/16032483120555.jpg" alt=""/></p>
+
+<p>单色按钮更适合金融/工具类产品<br/>
+<img src="media/16031761679848/16032483494017.jpg" alt=""/><br/>
+渐变按钮，使整个界面变得更加融合，比较适合有趣的产品，与人更加具有亲和力</p>
+
+<p><img src="media/16031761679848/16043695147070.jpg" alt=""/><br/>
+标题字体放大处理，衬线字体与非衬线字体组合，让排版更有力度</p>
+
+<p><img src="media/16031761679848/16043696059957.jpg" alt=""/><br/>
+放大的文本的时候，常规比例下的字间距会显得更佳明显，视觉上会显得有点【稀疏】，减少字间距能够让标题文本更佳紧凑，在视觉上更佳平衡</p>
+
+<p><img src="media/16031761679848/16043697806552.jpg" alt=""/><br/>
+相互关联的标题和正文之间的段间距更佳靠近一点，让不相关的内容块互相之间分开，间距拉远，从而自然而然地进行区分</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[视觉学习]]></title>
@@ -80,7 +165,11 @@
 
 <p>2.植物APP临摹</p>
 
-<p><img src="media/15935968120041/fitness.png" alt="fitness"/></p>
+<ul>
+<li class="task-list-item"><input disabled="disabled" type="checkbox" /> 
+<img src="media/15935968120041/fitness.png" alt="fitness"/>
+</li>
+</ul>
 
 <p>3.健身类APP临摹</p>
 
@@ -744,70 +833,6 @@
     <id>https://junenadesigner.github.io/15652479452895.html</id>
     <content type="html"><![CDATA[
 <p><img src="media/15652479452895/%E9%A3%9E%E6%9C%BA%E5%BC%95%E6%93%8E.png" alt="飞机引擎"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[近期插画]]></title>
-    <link href="https://junenadesigner.github.io/15652471914310.html"/>
-    <updated>2019-08-08T14:53:11+08:00</updated>
-    <id>https://junenadesigner.github.io/15652471914310.html</id>
-    <content type="html"><![CDATA[
-<p><img src="media/15652471914310/%E9%A3%8E%E6%99%AF.png" alt="风景"/></p>
-
-<p>最加入了一个设计群与里面的设计师们一起讨论学习，自己重新拾起了以前荒废了很久的插画。分享记录一下近期的插画</p>
-
-<span id="more"></span><!-- more -->   
-
-<p><img src="media/15652471914310/%E4%BA%BA%E7%89%A9.png" alt="人物"/></p>
-
-<p>关于人物插画取色方面，自己还有很多需要学习的地方，上图的人物一版画的较为粗糙，一版相对而言细节方面做得比较好。</p>
-
-<p><img src="media/15652471914310/%E4%BA%BA%E7%89%A9%E7%BB%83%E4%B9%A0.png" alt="人物练习"/><br/>
-这个人物插画选自淘宝的某位模特，现在上传发现当时画的时候关于“重色的阴影区域”没有画的很细致，希望下次可能增强阴影部分的细节。</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[商城首页界面总结]]></title>
-    <link href="https://junenadesigner.github.io/15625781074482.html"/>
-    <updated>2019-07-08T17:28:27+08:00</updated>
-    <id>https://junenadesigner.github.io/15625781074482.html</id>
-    <content type="html"><![CDATA[
-<h3 id="toc_0">第一稿</h3>
-
-<p><img src="media/15625781074482/%E9%A6%96%E9%A1%B5.png" alt="首页"/></p>
-
-<p>根据目前市面上的小程序出了一版，里面的图标粗糙的画了一下，整体主色调定为#F2480A </p>
-
-<span id="more"></span><!-- more --> 
-
-<h3 id="toc_1">第二稿</h3>
-
-<p><img src="media/15625781074482/%E9%A6%96%E9%A1%B5-%20%E8%B0%83%E6%95%B4%E7%89%881.0%EF%BC%89.png" alt="首页- 调整版1.0）"/><br/>
-调整了搜索按钮的位置，品牌推荐模块的轮播更改了一下。但是这一版的买赠专区还是有点不太协调。图标使用线性图标，使得整个画面不是很饱满。限时秒杀板块看上去有点拥挤。</p>
-
-<h3 id="toc_2">第三稿</h3>
-
-<p>距离第一稿、第二稿过了两周，重新审视自己之前画的界面，很多细节方面的问题需要调整。<br/>
-重新调整了一稿</p>
-
-<p><img src="media/15625781074482/%E9%A6%96%E9%A1%B5-%20%E8%B0%83%E6%95%B4%E7%89%882.0%EF%BC%89.png" alt="首页- 调整版2.0）"/></p>
-
-<p>这一稿修改部分详细回顾：</p>
-
-<ul>
-<li><p>先把原来的线性图标更改为面性图标，使得整个画面饱满一点。</p></li>
-<li><p>搜索框第二稿有点不是很明显，重新调整了搜索框的展示形式。</p></li>
-<li><p>限时秒杀字体没有体现“秒杀”，针对“限时秒杀”字体进行了重设计，在原有的庞门正道标题字的基础上做了一些变形。</p></li>
-<li><p>“限时秒杀”商品与商品之间的间距微调，是整个画面不显得那么拥挤。</p></li>
-<li><p>“品牌推荐”展示内容进行了减缩，直接显示品牌名称。减少文字描述方面的繁琐。</p></li>
-<li><p>“买赠专区”界面排版展示形式重新做了调整</p></li>
-</ul>
-
-<p>这一版比之前看上去更加协调，两周后重新更改一稿后，发现自己之前在作图中很多地方缺少缜密的思考，此次重新优化，弥补了之前的设计缺陷。还需要增强图标的正确运用方面知识。</p>
 
 ]]></content>
   </entry>
