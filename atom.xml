@@ -4,13 +4,24 @@
   <title><![CDATA[Junena的Blog]]></title>
   <link href="https://junenadesigner.github.io/atom.xml" rel="self"/>
   <link href="https://junenadesigner.github.io/"/>
-  <updated>2020-12-14T17:36:02+08:00</updated>
+  <updated>2020-12-14T17:38:23+08:00</updated>
   <id>https://junenadesigner.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[线稿练习]]></title>
+    <link href="https://junenadesigner.github.io/16082785903238.html"/>
+    <updated>2020-12-18T16:03:10+08:00</updated>
+    <id>https://junenadesigner.github.io/16082785903238.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/16082785903238/2020.12.10.png" alt="2020.12.10"/></p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[UI设计作品集]]></title>
@@ -822,17 +833,6 @@
 <p><img src="media/15653340452472/1.png" alt="1"/></p>
 
 <p>还做了一组To C的banner ,这个banner 的文字内容较多，现在回过头来看，文案较多，虽然“直播课”清晰明了，但是下面的“都是错过的题，老师讲的好，孩子记忆深”这段文案有点略显多余。</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[UI中国 飞机引擎临摹]]></title>
-    <link href="https://junenadesigner.github.io/15652479452895.html"/>
-    <updated>2019-08-08T15:05:45+08:00</updated>
-    <id>https://junenadesigner.github.io/15652479452895.html</id>
-    <content type="html"><![CDATA[
-<p><img src="media/15652479452895/%E9%A3%9E%E6%9C%BA%E5%BC%95%E6%93%8E.png" alt="飞机引擎"/></p>
 
 ]]></content>
   </entry>
