@@ -4,13 +4,125 @@
   <title><![CDATA[Junena的Blog]]></title>
   <link href="https://junenadesigner.github.io/atom.xml" rel="self"/>
   <link href="https://junenadesigner.github.io/"/>
-  <updated>2020-12-23T10:00:30+08:00</updated>
+  <updated>2020-12-23T10:00:43+08:00</updated>
   <id>https://junenadesigner.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[2020年作品集]]></title>
+    <link href="https://junenadesigner.github.io/16147642514931.html"/>
+    <updated>2021-03-03T17:37:31+08:00</updated>
+    <id>https://junenadesigner.github.io/16147642514931.html</id>
+    <content type="html"><![CDATA[
+<p><a href="media/16147642514931/%E4%BD%9C%E5%93%81%E9%9B%86%EF%BC%88%E5%B7%B2%E5%8E%8B%E7%BC%A9%EF%BC%89.pdf">作品集（已压缩）</a></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[UI知识点记录]]></title>
+    <link href="https://junenadesigner.github.io/16116526705581.html"/>
+    <updated>2021-01-26T17:17:50+08:00</updated>
+    <id>https://junenadesigner.github.io/16116526705581.html</id>
+    <content type="html"><![CDATA[
+<h3 id="toc_0">启动图标</h3>
+
+<p>启动图标的类型可以分为文字形式、图标形式、图形图标、插画形式（一般设计为企业的IP形象）、拟物形式<br/>
+<img src="media/16116526705581/16116527598637.jpg" alt=""/></p>
+
+<h4 id="toc_1">启动图标设计规范</h4>
+
+<p><img src="media/16116526705581/16116528991802.jpg" alt=""/></p>
+
+<ol>
+<li>IOS图标规范</li>
+</ol>
+
+<p>圆角使用的是sketch中的“平滑圆角”<br/>
+<img src="media/16116526705581/16116531927338.jpg" alt=""/></p>
+
+<span id="more"></span><!-- more -->
+
+<ol>
+<li>安卓图标规范
+<img src="media/16116526705581/16116533754361.jpg" alt=""/></li>
+</ol>
+
+<h4 id="toc_2">轻质感图标设计</h4>
+
+<ol>
+<li>使用饱和度不是很高的颜色</li>
+<li>增加内阴影 </li>
+<li>增加一层高光的图层，可以使图标色彩更加丰富</li>
+</ol>
+
+<h4 id="toc_3">组件</h4>
+
+<p>组件，高于控件的业务模块，具备比较完整的业务要求或者功能合集</p>
+
+<p><img src="media/16116526705581/16116547096985.jpg" alt=""/></p>
+
+<p>组件化设计的好处：细节统一、设计复用、开发高效、协作顺畅</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[如何做出让用户买单的设计]]></title>
+    <link href="https://junenadesigner.github.io/16099206443564.html"/>
+    <updated>2021-01-06T16:10:44+08:00</updated>
+    <id>https://junenadesigner.github.io/16099206443564.html</id>
+    <content type="html"><![CDATA[
+<h3 id="toc_0">一、什么是用户视角？</h3>
+
+<p>所谓的“用户视角”，顾名思义，是指从用户的角度思考问题。</p>
+
+<p>曾经在网上看到个笑话：</p>
+
+<p>有个和尚在祈祷时来了烟瘾，他问在场的神父：“祈祷的时候，可不可以抽烟”？神父回答“这是对神不尊敬，不行”。 另一个和尚也想抽烟，他问在场的神父：“吸烟的时候，可不可以祈祷”？神父回答：“这是时刻不忘祷告，可以”。</p>
+
+<p>为什么相同的含义，带来不同的结果？</p>
+
+<p>因为对比的默认选择不同。第一个和尚提议“祈祷的时候抽烟”，对比默认选择“祈祷的时候不抽烟”，固然是后者要好。 第二个和尚提议“抽烟的时候祈祷”，对比默认选择“抽烟的时候不祈祷”，固然是前者要好。</p>
+
+<p>这其中的思考逻辑：前者从自己的角度出发，后者从对方的立场出发。结果呢，导致同一个答案产生了不同的结果，这不是中华语言的博大精深，而是“用户视角”发挥的作用。</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[界面改版思考]]></title>
+    <link href="https://junenadesigner.github.io/16087064929142.html"/>
+    <updated>2020-12-23T14:54:52+08:00</updated>
+    <id>https://junenadesigner.github.io/16087064929142.html</id>
+    <content type="html"><![CDATA[
+<h3 id="toc_0">概念设计</h3>
+
+<p>改版目标：好用、好看<br/>
+<strong>视觉角度</strong><br/>
+· 设计语言<br/>
+样式统一<br/>
+暗黑风格<br/>
+面性图标<br/>
+· 设计规范定制<br/>
+配色（产品色+辅助色）<br/>
+字号<br/>
+栅格<br/>
+<strong>交互角度</strong><br/>
+检查功能是否缺失<br/>
+交互热区划分是否明确<br/>
+模块划分是否明确<br/>
+<strong>产品角度</strong><br/>
+是否可以增加tab切换<br/>
+是否可以增加详情<br/>
+丰富产品信息</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[线稿练习]]></title>
@@ -335,7 +447,7 @@
 <h3 id="toc_0">操作</h3>
 
 <ol>
-<li>鼠标按住滚轮键可以选择视图</li>
+<li>鼠标按住滚轮键可以选择视图，缩放视图大小</li>
 <li>AIT+鼠标左键可以鼠标拖动旋转视图</li>
 <li>要进行立方体点、线、面编辑前，请先将立方体进行“转化为可编辑对象”操作 </li>
 </ol>
@@ -738,102 +850,6 @@
 <h3 id="toc_14">马卡龙配色</h3>
 
 <p><img src="media/15706247841964/F26E301B-B849-45C1-AEC1-F590E5509699.png" alt="F26E301B-B849-45C1-AEC1-F590E5509699"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2.5D 图标设计]]></title>
-    <link href="https://junenadesigner.github.io/15704367019669.html"/>
-    <updated>2019-10-07T16:25:01+08:00</updated>
-    <id>https://junenadesigner.github.io/15704367019669.html</id>
-    <content type="html"><![CDATA[
-<h3 id="toc_0">3D凸出和斜角选选项</h3>
-
-<p>一般选择等角的形式。<br/>
-3D样式确认后选择扩展外观，将3D图形的每一个面进行分割，可以进行编辑。</p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[插画学习临摹一]]></title>
-    <link href="https://junenadesigner.github.io/15676703904515.html"/>
-    <updated>2019-09-05T15:59:50+08:00</updated>
-    <id>https://junenadesigner.github.io/15676703904515.html</id>
-    <content type="html"><![CDATA[
-<p>记录近期插画临摹练习</p>
-
-<p><img src="media/15676703904515/2019.11.png" alt="2019.11"/></p>
-
-<p><img src="media/15676703904515/2019.11.16.png" alt="2019.11.16"/></p>
-
-<p>学习临摹了上面的插画形式，尝试自己按照淘宝模特进行二次创作。</p>
-
-<p><img src="media/15676703904515/2019.8.27.png" alt="2019.8.27"/></p>
-
-<span id="more"></span><!-- more -->  
-
-<p><img src="media/15676703904515/2019.8.29.png" alt="2019.8.29"/></p>
-
-<p><img src="media/15676703904515/2019.9.1.jpg" alt="2019.9.1"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Kmovie APP 重设计]]></title>
-    <link href="https://junenadesigner.github.io/15668948543128.html"/>
-    <updated>2019-08-27T16:34:14+08:00</updated>
-    <id>https://junenadesigner.github.io/15668948543128.html</id>
-    <content type="html"><![CDATA[
-<p>从事UI工作已经有一年了。基本上的项目都是围绕着公司的项目，没有花很多时间进行总结归纳，自己学了什么，哪里进步了，一直就是“关门造车”，缺少与其他设计师的交流。最近加了一个设计群，每天学习都很有活力，感觉自己又活过来了。每天看着自己学习一点，感觉生活才是有滋有味的。<br/>
-翻出了去年还没有做UI设计，自己通过自学，给自己喜欢的电影做了一套APP设计。Kmovie 旨在为用户提供个性化的电影选择，增强用户观剧粘性。<br/>
-从功能体验等方面来看，Kmovie的1.0.0版本有很多不足的地方，特此进行设计重塑。</p>
-
-<span id="more"></span><!-- more --> 
-
-<p><img src="media/15668948543128/1.png" alt="1"/></p>
-
-<p><img src="media/15668948543128/1.png" alt="1"/></p>
-
-<p><img src="media/15668948543128/2.png" alt="2"/></p>
-
-<p><img src="media/15668948543128/3.gif" alt="3"/></p>
-
-<p><img src="media/15668948543128/4.png" alt="4"/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[整理去年所绘制的一些banner图]]></title>
-    <link href="https://junenadesigner.github.io/15653340452472.html"/>
-    <updated>2019-08-09T15:00:45+08:00</updated>
-    <id>https://junenadesigner.github.io/15653340452472.html</id>
-    <content type="html"><![CDATA[
-<p>去年公司策划了一个【期末直播课的项目】，涉及到许多的banner，今天恰好有时间，重新回顾自己之前做的banner。<br/>
-这个是一组首页关于倒计时的banner.<br/>
-<img src="media/15653340452472/banner5.png" alt="banne"/></p>
-
-<span id="more"></span><!-- more --> 
-
-<p><img src="media/15653340452472/banner4.png" alt="banne"/></p>
-
-<p><img src="media/15653340452472/banner3.png" alt="banne"/></p>
-
-<p><img src="media/15653340452472/banner2.png" alt="banne"/></p>
-
-<p><img src="media/15653340452472/banner1.png" alt="banne"/></p>
-
-<p>这组banner的灵感来源于站酷的一位设计师。使用数字和文字的组合，让人感觉到眼前一亮。唯一不足的地方是，数字的投影过渡的不是很自然，需要重新加强，“days”配合界面有点突兀。</p>
-
-<p>因为这个“直播课”的项目过程较为漫长其中还涉及了课程的banner,下图的课程banner是我认为在banner中设计比较合理的，banner主题清晰明了，点击率高。<br/>
- <img src="media/15653340452472/%E7%9B%B4%E6%92%AD.png" alt="直播"/></p>
-
-<p><img src="media/15653340452472/1.png" alt="1"/></p>
-
-<p>还做了一组To C的banner ,这个banner 的文字内容较多，现在回过头来看，文案较多，虽然“直播课”清晰明了，但是下面的“都是错过的题，老师讲的好，孩子记忆深”这段文案有点略显多余。</p>
 
 ]]></content>
   </entry>
