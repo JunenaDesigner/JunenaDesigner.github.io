@@ -4,24 +4,13 @@
   <title><![CDATA[Junena的Blog]]></title>
   <link href="https://junenadesigner.github.io/atom.xml" rel="self"/>
   <link href="https://junenadesigner.github.io/"/>
-  <updated>2020-12-23T10:00:43+08:00</updated>
+  <updated>2021-03-03T17:38:22+08:00</updated>
   <id>https://junenadesigner.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
-  
-  <entry>
-    <title type="html"><![CDATA[2020年作品集]]></title>
-    <link href="https://junenadesigner.github.io/16147642514931.html"/>
-    <updated>2021-03-03T17:37:31+08:00</updated>
-    <id>https://junenadesigner.github.io/16147642514931.html</id>
-    <content type="html"><![CDATA[
-<p><a href="media/16147642514931/%E4%BD%9C%E5%93%81%E9%9B%86%EF%BC%88%E5%B7%B2%E5%8E%8B%E7%BC%A9%EF%BC%89.pdf">作品集（已压缩）</a></p>
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[UI知识点记录]]></title>
@@ -850,6 +839,20 @@
 <h3 id="toc_14">马卡龙配色</h3>
 
 <p><img src="media/15706247841964/F26E301B-B849-45C1-AEC1-F590E5509699.png" alt="F26E301B-B849-45C1-AEC1-F590E5509699"/></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[2.5D 图标设计]]></title>
+    <link href="https://junenadesigner.github.io/15704367019669.html"/>
+    <updated>2019-10-07T16:25:01+08:00</updated>
+    <id>https://junenadesigner.github.io/15704367019669.html</id>
+    <content type="html"><![CDATA[
+<h3 id="toc_0">3D凸出和斜角选选项</h3>
+
+<p>一般选择等角的形式。<br/>
+3D样式确认后选择扩展外观，将3D图形的每一个面进行分割，可以进行编辑。</p>
 
 ]]></content>
   </entry>
