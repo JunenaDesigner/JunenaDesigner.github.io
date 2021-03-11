@@ -4,7 +4,7 @@
   <title><![CDATA[Junena的Blog]]></title>
   <link href="https://junenadesigner.github.io/atom.xml" rel="self"/>
   <link href="https://junenadesigner.github.io/"/>
-  <updated>2021-03-03T17:38:22+08:00</updated>
+  <updated>2021-03-08T16:21:03+08:00</updated>
   <id>https://junenadesigner.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -679,19 +679,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[图标设计的理论知识]]></title>
-    <link href="https://junenadesigner.github.io/15708474512181.html"/>
-    <updated>2019-10-12T10:30:51+08:00</updated>
-    <id>https://junenadesigner.github.io/15708474512181.html</id>
-    <content type="html"><![CDATA[
-<h3 id="toc_0">矛盾空间图标——彭罗斯三角形</h3>
-
-<p><img src="media/15708474512181/15717478967909.jpg" alt=""/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[国外大师的设计锦囊]]></title>
     <link href="https://junenadesigner.github.io/15706289849539.html"/>
     <updated>2019-10-09T21:49:44+08:00</updated>
@@ -840,6 +827,11 @@
 
 <p><img src="media/15706247841964/F26E301B-B849-45C1-AEC1-F590E5509699.png" alt="F26E301B-B849-45C1-AEC1-F590E5509699"/></p>
 
+<h4 id="toc_15">六三一配色</h4>
+
+<p>直角三角形配色：主色75%  辅色20%  点缀色5%<br/>
+<img src="media/15706247841964/16154525806792.jpg" alt=""/></p>
+
 ]]></content>
   </entry>
   
@@ -853,6 +845,31 @@
 
 <p>一般选择等角的形式。<br/>
 3D样式确认后选择扩展外观，将3D图形的每一个面进行分割，可以进行编辑。</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[插画学习临摹一]]></title>
+    <link href="https://junenadesigner.github.io/15676703904515.html"/>
+    <updated>2019-09-05T15:59:50+08:00</updated>
+    <id>https://junenadesigner.github.io/15676703904515.html</id>
+    <content type="html"><![CDATA[
+<p>记录近期插画临摹练习</p>
+
+<p><img src="media/15676703904515/2019.11.png" alt="2019.11"/></p>
+
+<p><img src="media/15676703904515/2019.11.16.png" alt="2019.11.16"/></p>
+
+<p>学习临摹了上面的插画形式，尝试自己按照淘宝模特进行二次创作。</p>
+
+<p><img src="media/15676703904515/2019.8.27.png" alt="2019.8.27"/></p>
+
+<span id="more"></span><!-- more -->  
+
+<p><img src="media/15676703904515/2019.8.29.png" alt="2019.8.29"/></p>
+
+<p><img src="media/15676703904515/2019.9.1.jpg" alt="2019.9.1"/></p>
 
 ]]></content>
   </entry>
