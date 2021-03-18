@@ -4,13 +4,28 @@
   <title><![CDATA[Junena的Blog]]></title>
   <link href="https://junenadesigner.github.io/atom.xml" rel="self"/>
   <link href="https://junenadesigner.github.io/"/>
-  <updated>2021-03-17T20:06:19+08:00</updated>
+  <updated>2021-03-17T20:06:28+08:00</updated>
   <id>https://junenadesigner.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[C4D练习]]></title>
+    <link href="https://junenadesigner.github.io/16160598728362.html"/>
+    <updated>2021-03-18T17:31:12+08:00</updated>
+    <id>https://junenadesigner.github.io/16160598728362.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/16160598728362/%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%99%BD%E8%86%9C-204%E8%90%9D%E5%8D%9C.png" alt="机器人白膜-204萝卜"/></p>
+
+<p>白膜<br/>
+<img src="media/16160598728362/%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%B8%B2%E6%9F%93-204%E8%90%9D%E5%8D%9C.png" alt="机器人渲染-204萝卜"/><br/>
+渲染</p>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Banner 练习]]></title>
@@ -856,20 +871,6 @@
 
 <p>直角三角形配色：主色75%  辅色20%  点缀色5%<br/>
 <img src="media/15706247841964/16154525806792.jpg" alt=""/></p>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[2.5D 图标设计]]></title>
-    <link href="https://junenadesigner.github.io/15704367019669.html"/>
-    <updated>2019-10-07T16:25:01+08:00</updated>
-    <id>https://junenadesigner.github.io/15704367019669.html</id>
-    <content type="html"><![CDATA[
-<h3 id="toc_0">3D凸出和斜角选选项</h3>
-
-<p>一般选择等角的形式。<br/>
-3D样式确认后选择扩展外观，将3D图形的每一个面进行分割，可以进行编辑。</p>
 
 ]]></content>
   </entry>
